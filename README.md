@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @neo-dr and I do stuff
+- 👋 Hi, I’m @neo-dr, i do stuff
 
 <!---
 neo-dr/neo-dr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
